@@ -1,4 +1,3 @@
-# Recipe-to-Nutrition-App
 # Recipe Nutrition Analyzer
 
 ## Project Overview
